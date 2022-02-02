@@ -1,0 +1,1 @@
+Hello, I'm Calvin Li and I'm just messing around with this. I am somewhat used to using Git / GitHub via taking Software Methodology.
