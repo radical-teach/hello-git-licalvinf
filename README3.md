@@ -1,0 +1,1 @@
+Why does Git use master and GitHub use main as default? Get with the times, Git.
